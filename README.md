@@ -5,10 +5,10 @@ This serves as my repository for the IT 421B Elective
 2. What are the examples of Version Control Application?
 
 3. What are the two types of VCA, and give examples each?
- 1 Centra;ozed
- 2 Distributed
+ 1 Centralized - SVC
+ 2 Distributed - Git
 4. What is Git?
-   Who inveted or developed Git?
+   Who inveted or developed Git? Linus Torvalds
 
 5. What is GitHub?
 
